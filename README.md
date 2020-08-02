@@ -1,14 +1,12 @@
 
 ### `Intro`
-The project is going to organise the bug hunting, feature request and road map of feature for [bananospl.it](http://bananospl.it/).
+The project is going to organise the bug hunting, feature request and road maps for [bananospl.it](http://bananospl.it/).
 
 [interface]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/interface.png "interface"
 ![alt text][interface]
 
 ### `Bug and feature request`
-If you find a bug you're welcome to create an issue with info inspected outcomes and how to recreate it. 
-
-Feature suggestion or quality of life changes can also be done through the issues.
+If you find a bug you're welcome to create an issue with info inspected outcomes and how to recreate it Feature suggestion or quality of life changes can also be done through the issues.
 
 ### `Translation files`
 For the moment the transition files are a future feature. When they are fully implemented pull requests for more language support is welcome.

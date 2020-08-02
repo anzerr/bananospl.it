@@ -2,8 +2,8 @@
 ### `Intro`
 The project is going to orangise the bug hunting, feature request and road map of feature for [bananospl.it](http://bananospl.it/).
 
-[logo]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/interface.png "interface"
-![alt text][logo]
+[interface]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/interface.png "interface"
+![alt text][interface]
 
 ### `Bug and feature request`
 If you find a bug you're welcome to create a issue with info inspected outcomse and how to recreate it. 
@@ -27,5 +27,5 @@ Other then that there's netdata for the logging stats.
 So In total there's 19 services in this stack there's 7 workers, 5 http services, 2 database, 1 haproxy, 1 netdata, 1 client, 1 broker and 1 node
 The image below should explain the links between the services and workers better.
 
-[logo]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/service.png "service"
-![alt text][logo]
+[service]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/service.png "service"
+![alt text][service]

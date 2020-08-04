@@ -25,5 +25,6 @@ Other than that there's netdata for the logging stats.
 So In total there are 19 services in this stack there's 7 workers, 5 http services, 2 databases, 1 haproxy, 1 netdata, 1 client,1 broker and 1 node.
 
 The image below should explain the links between the services and workers better.
+
 [service]: https://raw.githubusercontent.com/anzerr/bananospl.it/master/assets/service.png "service"
 ![alt text][service]
